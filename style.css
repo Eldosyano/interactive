@@ -1,0 +1,111 @@
+.squere{
+    position: absolute;
+    margin-left:55%;
+    margin-top:2%;
+    background-color: white;
+    padding: 5%; 
+    background-color: white;
+  }
+  
+  .btn1{
+    margin-left: 8%;
+    position: relative;
+    margin-left: 8%;
+    box-shadow:0 5px 0 #3C93D5;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-size: 22px;
+    text-decoration: none;
+    background: #55acee;
+    transition: .3s;
+  }
+  .red{
+    float: right;
+    padding-left: 15px;
+    color:red;
+  }
+  
+  .btn2{
+    margin-left: 8%;
+    position: relative;
+    margin-left: 8%;
+    box-shadow:0 5px 0 #3C93D5;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-size: 22px;
+    text-decoration: none;
+    background: #55acee;
+    transition: .3s;
+  }
+  .yellow{
+    float: right;
+    padding-left: 15px;
+    color: yellow;
+  }
+  
+  .btn3{
+    position: relative;
+  margin-left: 8%;
+  box-shadow:0 5px 0 #3C93D5;
+  display: inline-block;
+  border-radius: 5px;
+  padding: 10px 25px;
+  font-size: 22px;
+  text-decoration: none;
+  background: #55acee;
+  transition: .3s;
+}
+.green{
+   float: right;
+  padding-left: 15px;
+  color: green;
+}
+.btn4{
+    position: relative;
+  margin-left: 8%;
+  box-shadow:0 5px 0 #3C93D5;
+  display: inline-block;
+  border-radius: 5px;
+  padding: 10px 25px;
+  font-size: 22px;
+  text-decoration: none;
+  background: #55acee;
+  transition: .3s;
+}
+.black{
+   float: right;
+  padding-left: 15px;
+  color: black;
+}
+.btn5{
+    position: relative;
+  margin-left: 8%;
+  box-shadow:0 5px 0 #3C93D5;
+  display: inline-block;
+  border-radius: 5px;
+  padding: 10px 25px;
+  font-size: 22px;
+  text-decoration: none;
+  background: #55acee;
+  transition: .3s;
+}
+.blue{
+   float: right;
+  padding-left: 15px;
+  color: blue;
+}
+
+.cnopocki{
+  position: absolute;
+  margin-left:15%;
+  margin-top:0.8%;
+  
+  width:430px;
+  height:350px;
+}
+body{
+  color:#eae9ee;
+  background-color: #630000;
+}  
